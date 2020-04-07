@@ -18,12 +18,6 @@ Here you can find my documentations about the conferences I have watches for the
 
 In this talk the presentator is going to talk about what the is behind Typescript. 
 
-## Design Principles of Vue 3.0 by Evan You
-
-* Source: [Click here to see the conference](https://www.youtube.com/watch?v=WLpLYhnGqPA&feature=youtu.be)
-
-This talk is about what the developers of Vue what changed and why they make those changes in the newer version of Vue aka Vue 3.
-
 ### Types
 First lets define what a type is. A type is:
 ```
@@ -53,6 +47,13 @@ takesString(gryffindor) // error
 With the use of typescript you get really fast error handling. When you for example defined what kind of property's there will be in a certian function it will give you an error if you pass it an property which the function cant accept. So it gives you realtime error feedback in your editor.
 
 This also counts for methods. If you for example use the `slice` method on a number it will give you an error saying that the `slice` method doesnt exist on the number object.
+
+
+## Design Principles of Vue 3.0 by Evan You
+
+* Source: [Click here to see the conference](https://www.youtube.com/watch?v=WLpLYhnGqPA&feature=youtu.be)
+
+This talk is about what the developers of Vue what changed and why they make those changes in the newer version of Vue aka Vue 3.
 
 ### Diverse audience
 Vue has an extremely diverse audience
