@@ -2,7 +2,7 @@
 Here you can find my documentations about the conferences I have watches for the minor web development at the HVA.
 
 ## Table of contents
-* [TypeScript: Seeing Past the Hype](#typeScript:-seeing-past-the-hype)
+* [TypeScript: Seeing Past the Hype](#typeScript-seeing-past-the-hype)
 * [Design Principles of Vue 3.0 by Evan You](#design-principles-of-vue-3.0-by-evan-you)
     * [Diverse audience](#diverse-audience)
     * [CDN build & Vue CLI](#cdn-build-&-vue-cli)
@@ -14,11 +14,42 @@ Here you can find my documentations about the conferences I have watches for the
     
 ## TypeScript: Seeing Past the Hype
 
+* Source: [Click here to see the conference](https://www.youtube.com/watch?v=KfluE6-wDSU)
+
+In this talk the presentator is going to talk about what the is behind Typescript. 
+
 ## Design Principles of Vue 3.0 by Evan You
 
 * Source: [Click here to see the conference](https://www.youtube.com/watch?v=WLpLYhnGqPA&feature=youtu.be)
 
-This talk is about what the developers of Vue what changed and why they make those changes in the newer version of Vue aka Vue 3. 
+This talk is about what the developers of Vue what changed and why they make those changes in the newer version of Vue aka Vue 3.
+
+### Types
+First lets define what a type is. A type is:
+```
+A type is an attribute of data that tells the computer how the programmer inteds to use it.
+```
+Typescript makes heavily use of types, therefore the name typescript. It uses basic types like; `boolean`, `number`, `string`, `array`, `object`.
+There also falsy types like; `null` and `undefined`, but Typescript adds two other falsy types like `never` and `void`.
+
+Types can also be be derived from other types, like an object with a certain kind of shape.
+
+In Typescript there is also an type called `any` which can be any kind of type. Its like an esape route.
+
+### What is Typescript
+Typescript is a strict superset of Javascript. Below you see a little example of how Typescript may look like
+```typescript
+const slytherin: string = 'slytherin';
+const gryffindor: boolean = false;
+
+function takesString(arg: String){
+  console.log(arg);
+}
+takesString(slytherin) // works
+takesString(gryffindor) // error
+```
+
+
 
 ### Diverse audience
 Vue has an extremely diverse audience
