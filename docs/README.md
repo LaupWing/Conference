@@ -37,7 +37,7 @@ Types can also be be derived from other types, like an object with a certain kin
 In Typescript there is also an type called `any` which can be any kind of type. Its like an esape route.
 
 ### What is Typescript
-Typescript is a strict superset of Javascript. Below you see a little example of how Typescript may look like
+Typescript is a strict superset of Javascript. Below you see a little example of how Typescript may look like. In this example below when you run the code through an complire and you pass in the function an string it will work just fine. But when you pass an diffrent type it will give you an error.
 ```typescript
 const slytherin: string = 'slytherin';
 const gryffindor: boolean = false;
@@ -49,7 +49,10 @@ takesString(slytherin) // works
 takesString(gryffindor) // error
 ```
 
+### Typescript Is really smart
+With the use of typescript you get really fast error handling. When you for example defined what kind of property's there will be in a certian function it will give you an error if you pass it an property which the function cant accept. So it gives you realtime error feedback in your editor.
 
+This also counts for methods. If you for example use the `slice` method on a number it will give you an error saying that the `slice` method doesnt exist on the number object.
 
 ### Diverse audience
 Vue has an extremely diverse audience
