@@ -3,6 +3,11 @@ Here you can find my documentations about the conferences I have watches for the
 
 ## Table of contents
 * [TypeScript: Seeing Past the Hype](#typeScript-seeing-past-the-hype)
+    * [Types](#types)
+    * [What is Typescript](#what-is-typescript)
+    * [Typescript Is really smart](#typescript-is-really-smart)
+    * [But Typescript can be very hard!](#but-typescript-can-be-very-hard!)
+    * [Typescript is still worth implementing](#typescript-is-still-worth-implementing)
 * [Design Principles of Vue 3.0 by Evan You](#design-principles-of-vue-3.0-by-evan-you)
     * [Diverse audience](#diverse-audience)
     * [CDN build & Vue CLI](#cdn-build-&-vue-cli)
