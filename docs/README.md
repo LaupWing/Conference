@@ -49,8 +49,15 @@ With the use of typescript you get really fast error handling. When you for exam
 This also counts for methods. If you for example use the `slice` method on a number it will give you an error saying that the `slice` method doesnt exist on the number object.
 
 ### But Typescript can be very hard!
-Typescript can ben very hard to implemend in diffrent situation. When you use Typescript with React and you got Higher Order components you got to takes lots of steps to make Typescript work with Higher order components. And when that happends people tend to use the `any` type to bypass the errors, but defeats the purpose of Typescript.
+Typescript can ben very hard to implemend in diffrent situation. When you use Typescript with React and you got Higher Order components you got to takes lots of steps to make Typescript work with Higher order components. And when that happends people tend to use the `any` type to bypass the errors, but defeats the purpose of Typescript. With Typescript you add complexity to your app. Javascript is an untype language and with Typescript you make it an Typed language.
 
+### Typescript is still worth implementing
+Typescript is still worth implementing in your applications for the following reasons:
+* It eleminates an entire class of buggs. Your editor catch buggs earlier on because Typescript gives you an error warning in your editor.
+* When your application is big and you work with lots of people it helps with preventing errors.
+* Typescript Allows to place constraints on engineers
+  * Can constraint certain usage of newer feature for example.
+  * Prevent using outdated methods in certiain packages
 
 ## Design Principles of Vue 3.0 by Evan You
 
