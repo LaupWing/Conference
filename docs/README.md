@@ -48,6 +48,9 @@ With the use of typescript you get really fast error handling. When you for exam
 
 This also counts for methods. If you for example use the `slice` method on a number it will give you an error saying that the `slice` method doesnt exist on the number object.
 
+### But Typescript can be very hard!
+Typescript can ben very hard to implemend in diffrent situation. When you use Typescript with React and you got Higher Order components you got to takes lots of steps to make Typescript work with Higher order components. And when that happends people tend to use the `any` type to bypass the errors, but defeats the purpose of Typescript.
+
 
 ## Design Principles of Vue 3.0 by Evan You
 
