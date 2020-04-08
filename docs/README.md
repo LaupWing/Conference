@@ -58,6 +58,7 @@ Typescript is still worth implementing in your applications for the following re
 * Typescript Allows to place constraints on engineers
   * Can constraint certain usage of newer feature for example.
   * Prevent using outdated methods in certiain packages
+* Typescript allows you to forget about other parts of your codebase
 
 ## Design Principles of Vue 3.0 by Evan You
 
