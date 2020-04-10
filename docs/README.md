@@ -117,4 +117,17 @@ Angular and other large scope frameworks has everything available for the users.
 Vue is somewhere in the middle of React and Angular. Vue begins with the core of the framework which is the layer of activity and the user can adds more layers to it if he or she wishes to. But none of the layers you want to add is required knowledge when you first start using vue. Also when you need for a common problem, Vue almost everytime has a official solution for you. 
 
 ## Predicting the Future of the Web Development (2020 and 2025)
-You always have to look into the future to figure out which technology stack you are going to use. Learning a stack is an mayor task because you have to learn alot, and it would be a waste when that particular stack wouldn't be used after a year or so. So it is important to kinda look into the future to determine what you would like to learn or invest your time in.
+You always have to look into the future to figure out which technology stack you are going to use. Learning a stack is an mayor task because you have to learn alot, and it would be a waste when that particular stack wouldn't be used after a year or so. So it is important to kinda look into the future to determine what you would like to learn or invest your time in. Perl for example has dropped mayorly in popularity the last decade or so. 
+
+But that doesnt mean that you have to choose a stack that has mayor popularity or one that is mainstream. You are still making a bet on the future because Perl for example was mayor popular in 2006 but nowadays no one uses it anymore. The big takeaway is that you choose a stack that you are comfortable using and that you will be happy for the coming years. 
+
+**Predicting is safer than following blindly**
+
+In this talk the presentator predicts that the following technologies will be used in the future:
+* Typescript
+* Web assembly
+* Packages
+* Compile to js
+
+
+
