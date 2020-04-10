@@ -139,9 +139,9 @@ When working in teams it benefits alot when you use Typescript. Once teams used 
 ### Prediction 1
 Typescript takes over the JS world
 
-by end of 2020: TS is the most common choice for new commercial JS projects
+**by end of 2020:** TS is the most common choice for new commercial JS projects
 
-by end of 2025: more people writing TS daily than JS without TS
+**by end of 2025:** more people writing TS daily than JS without TS
 
 ### WebAssembly
 What is WebAssmbly? An simplyfied description of WebAssembly is almost machine code that runs in a browser. WebAssembly can be use to improve existing JS libaries. But Javascript Perf is widely accepted so a  performance use case isnt really valid for using WebAssembly.
@@ -153,6 +153,6 @@ WebAssembly can allow web apps to use the same techonlogies as native apps do. S
 ### Prediction 2
 WASM expands the Web App
 
-by end of 2020: Wasm Makes no significant diffrence to the makeup of the web
+**by end of 2020:** Wasm Makes no significant diffrence to the makeup of the web
 
-by end of 20205; wasm has created a new niche of heavyweight web apps
+**by end of 2025:** wasm has created a new niche of heavyweight web apps
