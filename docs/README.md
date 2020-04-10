@@ -16,6 +16,7 @@ Here you can find my documentations about the conferences I have watches for the
     * [Template vs JSX](#template-vs-jsx)
     * [Power vs Size](#power-vs-size)
     * [Framework Coherence vs Low Level Flexibility](#framework-coherence-vs-low-level-flexibility)
+* [Predicting the Future of the Web Development (2020 and 2025)][#predicting-the-future-of-the-web-development-2020-and-2025]
     
 ## TypeScript: Seeing Past the Hype
 
@@ -114,3 +115,5 @@ React has a fewer concepts to start with which allows for more flexibility for t
 Angular and other large scope frameworks has everything available for the users. The pro of this is that there is a consistent design proces and ecosystem. Most of the problem the users have there is an officale solution for that which works very well. But the cons of this that there is a higher upfront learing barier. Another con is that the maintance and introducing more ideas is more costly. Angular doesnt change alot and if it changes it is harder for the users to learn the newer ecosystem.
 
 Vue is somewhere in the middle of React and Angular. Vue begins with the core of the framework which is the layer of activity and the user can adds more layers to it if he or she wishes to. But none of the layers you want to add is required knowledge when you first start using vue. Also when you need for a common problem, Vue almost everytime has a official solution for you. 
+
+## Predicting the Future of the Web Development (2020 and 2025)
