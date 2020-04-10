@@ -143,4 +143,8 @@ by end of 2020: TS is the most common choice for new commercial JS projects
 
 by end of 2025: more people writing TS daily than JS without TS
 
+### WebAssembly
+What is WebAssmbly? An simplyfied description of WebAssembly is almost machine code that runs in a browser. WebAssembly can be use to improve existing JS libaries. But Javascript Perf is widely accepted so a  performance use case isnt really valid for using WebAssembly.
+
+It is much more interesting for big application on the web like Figma, that competes with appstores and installers. In these cases performance is a big part.
 
