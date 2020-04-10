@@ -16,7 +16,7 @@ Here you can find my documentations about the conferences I have watches for the
     * [Template vs JSX](#template-vs-jsx)
     * [Power vs Size](#power-vs-size)
     * [Framework Coherence vs Low Level Flexibility](#framework-coherence-vs-low-level-flexibility)
-* [Predicting the Future of the Web Development (2020 and 2025)][#predicting-the-future-of-the-web-development-2020-and-2025]
+* [Predicting the Future of the Web Development (2020 and 2025)](#predicting-the-future-of-the-web-development-2020-and-2025)
     
 ## TypeScript: Seeing Past the Hype
 
