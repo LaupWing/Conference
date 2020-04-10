@@ -137,7 +137,7 @@ Typescript can give a false sense of security because the keyword any which bypa
 When working in teams it benefits alot when you use Typescript. Once teams used Typescript they almost never go back on normal javascript and that is an indication that Typescript will only increase in popularity
 
 ### Prediction 1
-Typescript takes over the JS world
+_Typescript takes over the JS world_
 
 **by end of 2020:** TS is the most common choice for new commercial JS projects
 
@@ -151,7 +151,7 @@ It is much more interesting for big application on the web like Figma, that comp
 WebAssembly can allow web apps to use the same techonlogies as native apps do. So for example games can run on the web.
 
 ### Prediction 2
-WASM expands the Web App
+_WASM expands the Web App_
 
 **by end of 2020:** Wasm Makes no significant diffrence to the makeup of the web
 
@@ -163,3 +163,22 @@ When we talk about packages, you can mainly think of NPM. NPM is the biggest pac
 But there is one other big problem with NPM, and that are the packages itself. When you download an npm package there always is an possibility that you download some malicous code. Even if you dont download an package that has malicious code that pacakge uses other packages which can contain some malicious code. So it is harder to discover malicious files.
 But it hasnt happend yet, and you can prevent it from happening by using the followin code to prevent post-install scripts `npm config set ignore-scripts true`.
 
+### Prediction 3
+npm lasts, surviving futher problems
+
+**by end of 2020:** at least one new npm security incident makes headlines
+
+**by end of 2025:** at least one malicious npm package has infected many dev's machines except for people using the code above!
+
+## Compile to JS
+When you think about compile to JS you can think about Babel Typscript svelte and such. And Dart which doesnt actually compiles to Javascript but has the same dialect aka similart synthax as Javascript. And at least of course the big javascript frameworks. 
+
+During this point i felt like it was more an commercial of elm because the presentator talks alot about elm and tries to sell it... So i dont think he eloborated much on this topic overall. He could rather call this section Elm instead of "compile to js"
+
+
+### Prediction 4
+_JS alternatives stay niche, and age well._
+
+**by end of 2020:** compile to js langauges still growing, but none as fast as typescript
+
+**by end of 2025:** non-JS dialects have aged well, although Typescript is more popular
