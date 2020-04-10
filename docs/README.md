@@ -156,3 +156,10 @@ WASM expands the Web App
 **by end of 2020:** Wasm Makes no significant diffrence to the makeup of the web
 
 **by end of 2025:** wasm has created a new niche of heavyweight web apps
+
+### Packages
+When we talk about packages, you can mainly think of NPM. NPM is the biggest package system ecosystem. There are a lot of competing package ecosystems like Yarn and Github Package Registry. Are these signs of NPM going away? Not really, because lots of people and even the competing pacakge systems are using the same layout of holding packages aka the `package.json` file. 
+
+But there is one other big problem with NPM, and that are the packages itself. When you download an npm package there always is an possibility that you download some malicous code. Even if you dont download an package that has malicious code that pacakge uses other packages which can contain some malicious code. So it is harder to discover malicious files.
+But it hasnt happend yet, and you can prevent it from happening by using the followin code to prevent post-install scripts `npm config set ignore-scripts true`.
+
