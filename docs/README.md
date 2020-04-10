@@ -117,3 +117,4 @@ Angular and other large scope frameworks has everything available for the users.
 Vue is somewhere in the middle of React and Angular. Vue begins with the core of the framework which is the layer of activity and the user can adds more layers to it if he or she wishes to. But none of the layers you want to add is required knowledge when you first start using vue. Also when you need for a common problem, Vue almost everytime has a official solution for you. 
 
 ## Predicting the Future of the Web Development (2020 and 2025)
+You always have to look into the future to figure out which technology stack you are going to use. Learning a stack is an mayor task because you have to learn alot, and it would be a waste when that particular stack wouldn't be used after a year or so. So it is important to kinda look into the future to determine what you would like to learn or invest your time in.
