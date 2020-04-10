@@ -17,6 +17,14 @@ Here you can find my documentations about the conferences I have watches for the
     * [Power vs Size](#power-vs-size)
     * [Framework Coherence vs Low Level Flexibility](#framework-coherence-vs-low-level-flexibility)
 * [Predicting the Future of the Web Development (2020 and 2025)](#predicting-the-future-of-the-web-development-2020-and-2025)
+    * [Typscript](#typescript)
+      * [Prediction1](#prediction1)
+    * [WebAssembly](#webassembly)
+      * [Prediction2](#prediction2)
+    * [Packages](#packages)
+      * [Prediction3](#prediction3)
+    * [Compile to Js](#compile-to-js)
+      * [Prediction4](#prediction4)
     
 ## TypeScript: Seeing Past the Hype
 
