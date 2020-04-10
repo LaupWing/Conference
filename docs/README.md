@@ -129,5 +129,18 @@ In this talk the presentator predicts that the following technologies will be us
 * Packages
 * Compile to js
 
+### Typescript
+In the last 5 years Typscript surges in popularity. The popularity will only increase because the mayor frameworks are implementing typescript into their code. 
+
+Typescript can give a false sense of security because the keyword any which bypasses the type checking. But that is the only negative side of Typescript. 
+
+When working in teams it benefits alot when you use Typescript. Once teams used Typescript they almost never go back on normal javascript and that is an indication that Typescript will only increase in popularity
+
+### Prediction 1
+Typescript takes over the JS world
+
+by end of 2020: TS is the most common choice for new commercial JS projects
+
+by end of 2025: more people writing TS daily than JS without TS
 
 
