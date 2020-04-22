@@ -25,6 +25,7 @@ Here you can find my documentations about the conferences I have watches for the
       * [Prediction3](#prediction-3)
     * [Compile to Js](#compile-to-js)
       * [Prediction4](#prediction-4)
+ *[Joy - Maintaing Passion for Pgrogrammming](#joy-maintaing-passion-for-pgrogrammming)
     
 ## TypeScript: Seeing Past the Hype
 
