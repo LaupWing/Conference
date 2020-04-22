@@ -193,3 +193,12 @@ _JS alternatives stay niche, and age well._
 **by end of 2020:** compile to js langauges still growing, but none as fast as typescript
 
 **by end of 2025:** non-JS dialects have aged well, although Typescript is more popular
+
+## Joy - Maintaing Passion for Pgrogrammming
+
+* Source: [Click here to see the conference]https://www.youtube.com/watch?v=GQFbUS2jnMc&list=PLWYWTh1no3EgYPKtLoN-SMbP8EYB3ffEq&index=6&t=1272s)
+
+The speaker of this presentation is Bruce Tate. He is the author of the books 7 Languages in 7 days and Bitter Java. 
+
+His talk is about having joy in going to your coding work and having joy when solving a programming problem.
+
