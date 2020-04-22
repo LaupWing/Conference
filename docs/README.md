@@ -25,7 +25,7 @@ Here you can find my documentations about the conferences I have watches for the
       * [Prediction3](#prediction-3)
     * [Compile to Js](#compile-to-js)
       * [Prediction4](#prediction-4)
- *[Joy - Maintaing Passion for Pgrogrammming](#joy-maintaing-passion-for-pgrogrammming)
+* [Joy - Maintaing Passion for Programming](#joy-maintaing-passion-for-programmming)
     
 ## TypeScript: Seeing Past the Hype
 
@@ -195,7 +195,7 @@ _JS alternatives stay niche, and age well._
 
 **by end of 2025:** non-JS dialects have aged well, although Typescript is more popular
 
-## Joy - Maintaing Passion for Pgrogrammming
+## Joy - Maintaing Passion for Programmming
 
 * Source: [Click here to see the conference](https://www.youtube.com/watch?v=GQFbUS2jnMc&list=PLWYWTh1no3EgYPKtLoN-SMbP8EYB3ffEq&index=6&t=1272s)
 
