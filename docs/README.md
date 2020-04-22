@@ -198,7 +198,7 @@ _JS alternatives stay niche, and age well._
 
 * Source: [Click here to see the conference](https://www.youtube.com/watch?v=GQFbUS2jnMc&list=PLWYWTh1no3EgYPKtLoN-SMbP8EYB3ffEq&index=6&t=1272s)
 
-The speaker of this presentation is Bruce Tate. He is the author of the books 7 Languages in 7 days and Bitter Java. 
+The speaker of this presentation is Bruce Tate. He is the author of the books 7 Languages in 7 days, Bitter Java, Beyond Java and much more. 
 
 His talk is about having joy in going to your coding work and having joy when solving a programming problem.
 
@@ -206,4 +206,10 @@ For the first half of this speech Bruce Tate spook about the people he met and w
 
 The first was a good friend of his called David Thomas who had written a book called The Pragmatic Programmer. The advice David gave was that Programmers should learn a language every year. Bruce was contemplating about learning a language, because he had some prejudices about this programming language. David said to Bruce that he can only judge a programming language if he had tried it.
 
+Later Bruce met Yukihiro Matz Matsumoto (which was Bruce his idol during this time) who wrote the programming language Ruby. A famous quote of Matz is "Programmers often feel joy when they can concentrate on the creative side of programming". And during that time Ruby was that kind of language which hasnt many compile errors (like javascript a bit). Which is terribly bad. But people had joy coding in Ruby. So had Bruce. Bruce was writing Ruby programs for the company he worked for. But the fact that Ruby had fewer compile errors is not a good thing. So he sought for a way out. 
 
+Bruce wrote a new book called 7 Languages in 7 Days. The foreword of this book was written by Joe Armstrong, also a good friend of Bruce. Joe had a crazy way of bringing joy to everyone for programming languages. Joe helped Bruce with writing a chapter about the programming language prologue and sharing his joy with Bruce.
+
+The second half of the speech was about the science behind having joy and his stress at his work. Bruce lost joy at his work by the day. The reason was because he did the same thing every day. He wrote the language Ruby everyday and due to  his hearth problems he had to stop working there. 
+
+He started a new company and he needed to recruit new coders. Bruce was curious what made a developer a good developer. After some digging he found a research that proved that the thing that made joy was curiosity. Curiosity sparks Joy. So the answer to what makes joy is that you have to Learn more! And by having more fun the productivity is much higher at work. So take time to learn more about programming which sparks your curiosity.
