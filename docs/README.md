@@ -202,3 +202,8 @@ The speaker of this presentation is Bruce Tate. He is the author of the books 7 
 
 His talk is about having joy in going to your coding work and having joy when solving a programming problem.
 
+For the first half of this speech Bruce Tate spook about the people he met and what he had learned from them. 
+
+The first was a good friend of his called David Thomas who had written a book called The Pragmatic Programmer. The advice David gave was that Programmers should learn a language every year. Bruce was contemplating about learning a language, because he had some prejudices about this programming language. David said to Bruce that he can only judge a programming language if he had tried it.
+
+
